@@ -1,0 +1,79 @@
+Introduction to NumPy
+https://youtu.be/yiV5RfhCQVA
+
+NumPy Arrays and Python list Differences
+https://youtu.be/9o2Fi5P4-xs
+
+Creation of NumPy Arrays
+https://youtu.be/fMnVjePoI1E
+
+NumPy arange function
+https://youtu.be/VO5nCFGPlK4
+
+NumPy Linspace and other functions to create NumPy array in NumPy
+https://youtu.be/nx19DKTblFQ
+
+NumPy Data types
+https://youtu.be/NlVmlY2dtFQ
+
+NumPy View vs NumPy Copy 
+https://youtu.be/5GqCPsM2FEE
+
+NumPy Arrays indexing and slicing in NumPy
+https://youtu.be/NV20WVHxnaQ
+
+NumPy Arrays Advanced Indexing in NumPy
+https://youtu.be/issfwVw_Fdg
+
+NumPy Condition based selection and logical operations
+https://youtu.be/ytfLtrGxKYw
+
+NumPy Multi Dimensional Arrays
+https://youtu.be/1-5sx3P35hM
+
+NumPy Iterate elements of array
+https://youtu.be/B1YjnCYcm0Q
+
+NumPy Arithmetic Operations with NumPy Arrays
+https://youtu.be/4efs49hM1Bs
+
+NumPy Broad casting
+https://youtu.be/LuymI4M-jT0
+
+NumPy Flatten and NumPy Ravel functions
+https://youtu.be/fWzqoJ2Mczk
+
+NumPy Array manipulation functions
+https://youtu.be/2mvFwitJKf4
+
+NumPy Sorting elements of ndarrays
+https://youtu.be/KAzIQQ7VgkQ
+
+NumPy Searching elements of ndarray
+https://youtu.be/qCMyrHarWWA
+
+NumPy insert elements into ndarray
+https://youtu.be/ec6Xz0K3Cv8
+
+NumPy Delete elements of ndarray
+https://youtu.be/StQW4spg-6E
+
+NumPy Arrays Stacking
+https://youtu.be/bJZJumrkyJE
+
+NumPy Splitting of arrays
+https://youtu.be/qR4K8fJgwdo
+
+NumPy Matrix multiplication by using dot
+https://youtu.be/yCmAUfwSX54
+
+NumPy matrix class Importance in NumPy library 
+https://youtu.be/PuaxA-AJBpE
+
+
+
+
+
+
+
+
